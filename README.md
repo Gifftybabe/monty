@@ -1,7 +1,7 @@
-![image]("https://user-images.githubusercontent.com/105078661/207708047-24202594-486a-4c1d-bf71-a951327310b2.png" width="30")
+![image](https://user-images.githubusercontent.com/105078661/207708047-24202594-486a-4c1d-bf71-a951327310b2.png)
 
 
- ![image]("https://user-images.githubusercontent.com/105078661/207705650-a632cd96-cf56-4276-b279-46ce48f4736f.png" width="30")
+ ![image](https://user-images.githubusercontent.com/105078661/207705650-a632cd96-cf56-4276-b279-46ce48f4736f.png)
 
 **Authors: [Uloka Ngozi Gift](https://www.linkedin.com/in/gifftybabe/) and [Sodiq Adesola Ariyo](https://www.linkedin.com/in/sodiq-ariyo-1174651aa)**
 # Monty
