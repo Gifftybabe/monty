@@ -1,9 +1,9 @@
-![image](https://user-images.githubusercontent.com/105078661/207708047-24202594-486a-4c1d-bf71-a951327310b2.png)
+![image](https://user-images.githubusercontent.com/105078661/207708047-24202594-486a-4c1d-bf71-a951327310b2.png  width="30")
 
 
  ![image](https://user-images.githubusercontent.com/105078661/207705650-a632cd96-cf56-4276-b279-46ce48f4736f.png)
 
-**Authors: [Uloka Ngozi Gift](https://twitter.com/Gifftybabe) and [Sodiq Adesola Ariyo](https://www.linkedin.com/in/larry-madeo-904a7129/)**
+**Authors: [Uloka Ngozi Gift](https://www.linkedin.com/in/gifftybabe/) and [Sodiq Adesola Ariyo](https://www.linkedin.com/in/sodiq-ariyo-1174651aa)**
 # Monty
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
